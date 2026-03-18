@@ -151,6 +151,7 @@ frontend/
 - Observability (timings, CPU/memory metrics, tracing)
 - Evaluation harness (RAGAS / golden QA sets)
 
+<img width="1470" height="517" alt="Screenshot 2026-03-18 at 3 14 04 PM" src="https://github.com/user-attachments/assets/4a9d87e5-818b-4a10-9044-5d23cb173270" />
 
 
 ## License
