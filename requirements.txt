@@ -1,0 +1,21 @@
+fastapi==0.115.6
+uvicorn[standard]==0.32.1
+streamlit==1.42.0
+requests==2.32.3
+python-dotenv==1.0.1
+pydantic==2.10.4
+sentence-transformers==3.3.1
+tiktoken==0.8.0
+openai==1.61.0
+rank-bm25==0.2.2
+numpy==1.26.4
+python-multipart==0.0.9
+
+# Local vector store fallback
+faiss-cpu==1.8.0.post1
+
+# Production niceties
+rich==13.9.4
+
+# Install dependencies
+
