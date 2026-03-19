@@ -155,7 +155,7 @@ frontend/
 
 <img width="1470" height="517" alt="Screenshot 2026-03-18 at 3 14 04 PM" src="https://github.com/user-attachments/assets/4a9d87e5-818b-4a10-9044-5d23cb173270" />
 
- <img width="1148" height="691" alt="Screenshot 2026-03-19 at 10 05 01 AM" src="https://github.com/user-attachments/assets/b489158a-b30e-4cbc-a1b0-46c597694ec2" />
+<img width="1152" height="687" alt="Screenshot 2026-03-19 at 10 08 48 AM" src="https://github.com/user-attachments/assets/c2f166a8-6add-480d-8090-32c608a6ae9c" />
 
 
 ## License
