@@ -147,11 +147,15 @@ frontend/
 
 ## Roadmap
 - PDF ingestion (text extraction) + better chunking heuristics
+
+
 - Proper ID-mapped FAISS index / deletions by document_id
 - Observability (timings, CPU/memory metrics, tracing)
 - Evaluation harness (RAGAS / golden QA sets)
 
 <img width="1470" height="517" alt="Screenshot 2026-03-18 at 3 14 04 PM" src="https://github.com/user-attachments/assets/4a9d87e5-818b-4a10-9044-5d23cb173270" />
+
+ <img width="1148" height="691" alt="Screenshot 2026-03-19 at 10 05 01 AM" src="https://github.com/user-attachments/assets/b489158a-b30e-4cbc-a1b0-46c597694ec2" />
 
 
 ## License
